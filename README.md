@@ -1,24 +1,14 @@
-# README
+# @ME
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Basic full stack, Ruby on Rails clone of Twitter. 
 
-Things you may want to cover:
+**Required languages**: Ruby, Ruby on Rails, HTML, CSS, Javascript, SQL, Active Directory
 
-* Ruby version
+# What I Learned
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* HTML requests. 
+* Authorization and authentification for user profiles.
+* Handle User posts and features.
+* Using active directory. 
+* Basic JS design patterns. 
+* Using active directory to store User content. 
